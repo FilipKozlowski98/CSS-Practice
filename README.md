@@ -1,2 +1,2 @@
-# CSS-tutorial
+# CSS-Practice
 CSS basics, grid, flex, animation
